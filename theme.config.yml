@@ -3,3 +3,11 @@ menu:
   Archives: /archives
   About: /about
   RSS: /atom.xml
+
+# gitalk
+gitalk: true
+gitalk_owner: MaYunFei
+gitalk_admin: ['MaYunFei']
+gitalk_repo: blog
+gitalk_client_id: 32af0f0c410f9de0b8d4
+gitalk_client_secret: dcb207615101cc6baac35642f79f648f61c59998
